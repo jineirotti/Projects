@@ -1,7 +1,9 @@
 Objective:
+
 This project seeks to analyze and visualize COVID-19 data to:
 
 -Investigate the distribution of COVID-19 cases and deaths by country and continent.
+
 -Monitor the progress of COVID-19 vaccination efforts across different countries and regions.
 
 
