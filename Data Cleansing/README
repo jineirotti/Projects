@@ -1,0 +1,13 @@
+Overview
+
+This project focuses on data cleaning using SQL, where I aimed to enhance the quality and usability of our dataset by addressing various data quality issues.
+
+Steps Taken
+
+Standardizing Date Format: I began by ensuring consistency in date representations across the dataset, which involved converting various date formats into a unified format to facilitate easier analysis and interpretation.
+
+Data Imputation: Next, I identified and filled missing data where appropriate, while maintaining data integrity.
+
+Address Parsing: I parsed the address column into separate components such as address, city, and state. This restructuring aimed to enhance the usability of the address information for further analysis and visualization.
+
+Column Cleanup: Finally, I removed obsolete columns that were deemed unnecessary or redundant for our analytical purposes, streamlining the dataset and improving its clarity and efficiency.
