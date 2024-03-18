@@ -1,0 +1,14 @@
+Preparation
+Missing Data Handling:
+To ensure the integrity of the data, the project begins by checking for missing data. Rows containing missing values are removed from the dataset to avoid potential biases in subsequent analyses.
+
+Duplicate Removal:
+Duplicates within the dataset can skew analytical results. Therefore, the dataset is scanned for duplicate entries, and any duplicates found are removed to maintain data accuracy.
+
+Correlation Analysis 
+
+Scatter Plot: Gross vs Budget:
+A scatter plot was generated to visually inspect the relationship between the gross and budget variables. This plot provides an initial insight into the potential correlation between these two factors.
+
+Correlation Matrix:
+A correlation matrix was computed to quantify the relationships between all numeric columns in the dataset. This reconfirms the positive relation between budget and gross and also shows a positive relation between votes and gross.
